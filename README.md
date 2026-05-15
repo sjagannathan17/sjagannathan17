@@ -5,7 +5,7 @@
 
 **Aspiring Product Manager** focused on **AI / data products** — building things that make hard expert work feel obvious for normal users.
 
-Santa Clara University MSBA · [Portfolio](https://portfolio-pi-olive-yfvgxx81kp.vercel.app) · [LinkedIn](https://linkedin.com/in/srinidhi-jagannathan) · srinidhi.jagan11@gmail.com
+Santa Clara University MSBA · [Portfolio](https://sjagannathan17.github.io/portfolio) · [LinkedIn](https://linkedin.com/in/srinidhi-jagannathan) · srinidhi.jagan11@gmail.com
 
 ---
 
@@ -58,4 +58,4 @@ I'm drawn to problems where the user's *first question* is hard to answer well �
 
 If you're building an AI product and want a PM who's *built the things they're about to spec* — let's talk.
 
-**srinidhi.jagan11@gmail.com** · **[LinkedIn](https://linkedin.com/in/srinidhi-jagannathan)** · **[Portfolio](https://portfolio-pi-olive-yfvgxx81kp.vercel.app)**
+**srinidhi.jagan11@gmail.com** · **[LinkedIn](https://linkedin.com/in/srinidhi-jagannathan)** · **[Portfolio](https://sjagannathan17.github.io/portfolio)**

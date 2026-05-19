@@ -20,6 +20,16 @@ I'm drawn to problems where the user's *first question* is hard to answer well �
 
 ---
 
+## Writing
+
+I write product teardowns when something is worth dissecting — the goal is to figure out *why* two teams made different decisions, not just *what* they did.
+
+> *"A relationship remembers you. A magazine doesn't know your name."*
+
+- **[Why Ulta Feels Like a Relationship and Nykaa Feels Like a Magazine](https://medium.com/@srinidhi.jagan11/why-ulta-feels-like-a-relationship-and-nykaa-feels-like-a-magazine-015284de25e2)** — Six product lessons from comparing two beauty apps that chose very different answers to the same question: *who is this user, and what do they need right now?* Covers lifecycle-stage personalisation, the monetisation-vs-UX tension marketplaces always face, and why solving for **unknown intent** is a stronger moat than optimising for known search. *Medium · April 2026*
+
+---
+
 ## Featured products
 
 > Each repo is framed the way I'd brief a real PM team: **Problem → Users → Decisions → Impact → What's next.**

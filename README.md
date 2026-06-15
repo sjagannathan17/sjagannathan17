@@ -45,6 +45,7 @@ I write product teardowns when something is worth dissecting — the goal is to 
 | [**Tesla Workforce Optimization**](https://github.com/sjagannathan17/tesla-workforce-optimization) | Linear-programming model for bilingual customer-support staffing. **Saves $100/day (2.2%)** while meeting every coverage constraint. | R, lpSolve | `optimization` `ops-research` |
 | [**Stylometric AI-Text Detection**](https://github.com/sjagannathan17/stylometric-ai-text-detection) | Interpretable AI-vs-human text classifier on 11.5K samples. The 80% headline hides that the model is **near-random on paraphrased text and worse-than-random on GPT-2** — a PM lesson about why aggregate metrics lie. | Python, scikit-learn, SHAP | `ml` `nlp` `interpretable-ai` |
 | [**Lending Club ML Analysis**](https://github.com/sjagannathan17/lending-club-default-prediction) | Default-prediction on 887K loans **without data leakage** — only origination-time features. AUC 0.80 with calibration-aware methodology. | Python, scikit-learn, XGBoost | `ml` `credit-risk` |
+| [**SmartReview**](https://github.com/sjagannathan17/smartreview-nlp) | NLP review-intelligence pipeline that turns raw product reviews into the **ops & marketing actions they imply** — sentiment (**0.856 CV acc**), aspect intelligence, per-category topics, and a confidence-gated `/analyze` API. | Python, scikit-learn, NLTK, gensim, FastAPI | `nlp` `aspect-sentiment` `capstone` |
 
 ---
 
